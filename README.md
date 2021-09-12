@@ -10,7 +10,7 @@ What it offers (non-exhaustive list):
 *   ✉️ Handler system!
 *   ⚙️ Event handling!
 *   😀 Uses the NEW buttons that come along with discord.js v13!
-*   🗳️ Support in my [Discord](https://discord.gg/uZ7pjPCmeU)
+*   🗳️ Support in issues | Please submit all issues in the github page
 
 ## Installation
 
