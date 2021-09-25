@@ -24,3 +24,5 @@ What it offers (non-exhaustive list):
 * When you're done setting up your token and prefix, make sure to customize your bot like the bot's embed colour and it's footer.
 * Now, comes up installing required modules. If you don't want the trouble of learning the dependencies and understanding it, just run `npm install`.
 * You're good to go! Run `node .` to run the bot!
+
+## Note: This github repository is deprecated and archived. A new template will be added soon :)
